@@ -1,3 +1,5 @@
+<img width="1339" height="737" alt="Image" src="https://github.com/user-attachments/assets/a50c1e57-fb92-4ad7-8803-87d958f122d9" />
+
 <div align="center">
 <h1>✨ Lumina - Beauty & Wellness Booking Platform</h1>
 <p><strong>AI-Powered Beauty Salon Appointment Booking System</strong></p>
@@ -22,6 +24,8 @@ And enables salon administrators to:
 - 🔔 Send appointment reminders to customers
 
 ---
+
+<img width="1357" height="732" alt="Image" src="https://github.com/user-attachments/assets/e5c7dee8-d06d-4565-b7fe-55a9d14e5d58" />
 
 ## ✨ Key Features
 
