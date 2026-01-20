@@ -1,0 +1,7 @@
+{
+  "name": "Lumina Beauty & Wellness",
+  "description": "Premium güzellik salonu randevu ve yönetim sistemi. Online randevu, hizmet takibi ve AI destekli güzellik asistanı.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
