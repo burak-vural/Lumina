@@ -1,4 +1,4 @@
-Lumina** is a modern, full-featured beauty and wellness salon booking platform built with React and TypeScript.
+Lumina is a modern, full-featured beauty and wellness salon booking platform built with React and TypeScript.
 
 <img width="1339" height="737" alt="Image" src="https://github.com/user-attachments/assets/a50c1e57-fb92-4ad7-8803-87d958f122d9" />
 
